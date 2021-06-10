@@ -1,7 +1,7 @@
 %This file is created by Xu Xiaoli on 25/05/2021
 %It verifies the analytical results obtained for GE channel analysis of
 %blind coding
-
+%Developed by Guan Qixing on 07/06/2021
 clc;
 clear;
 close all;
