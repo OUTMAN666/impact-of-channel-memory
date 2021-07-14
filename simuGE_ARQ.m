@@ -5,7 +5,7 @@
 function simuLatency=simuGE_ARQ(lambda, p, r,T)
 
 % lambda=0.4;
-N=50000; %Total number of time slots considered
+N=10000; %Total number of time slots considered
 
 %Channel Parameters
 % p=0.2; % assume symmetric, p=r
